@@ -1,1 +1,1 @@
-# Image--recognising-Hanfswritten-Alphets
+# Image--recognising-Handswritten-Alphets

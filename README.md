@@ -1,5 +1,7 @@
 # Handwritten Alphabet Image Recognition
 ![image](https://github.com/ashfaq-khan14/Image--recognising-Hanfswritten-Alphets/assets/120010803/291739ad-7026-441d-ac5f-6d51aade61c0)
+![image](https://github.com/ashfaq-khan14/Image--recognising-Hanfswritten-Alphets/assets/120010803/75ab4c1c-7a8d-465f-919e-806cd8320d6a)
+
 
 ## Description
 
@@ -74,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, suggestions, or support, feel free to contact us at [your.email@example.com](mailto:your.email@example.com).
+For questions, suggestions, or support, feel free to contact us at [ashfaqkhan1419600@gmail.com).
 ```
 
 Remember to customize the placeholders (e.g., `your-username`, `path/to/dataset`, etc.) with the actual details of your project. Additionally, you might want to include any additional sections or information specific to your project's implementation and requirements.
